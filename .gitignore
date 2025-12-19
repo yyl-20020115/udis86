@@ -12,6 +12,11 @@
 *.o
 *.lo
 *.la
+*.Plo
+*.lai
+*.so
+*.so*
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
